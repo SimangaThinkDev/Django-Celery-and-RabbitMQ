@@ -2,3 +2,4 @@ django
 celery
 amqp
 django-celery-results
+python-dotenv
